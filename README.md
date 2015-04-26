@@ -1,4 +1,4 @@
-# Forge-Game-Data-Language
+# Forge-Game-Data-Language [![Build Status](https://travis-ci.org/Crowbar-Sledgehammer/forge-game-data-language.svg)](https://travis-ci.org/Crowbar-Sledgehammer/forge-game-data-language)
 Syntax highlighting rules for Forge Game Data (.fdg) files.
 
 Language keywords were taken from the source sdk [wiki/FGD](https://developer.valvesoftware.com/wiki/FGD).
